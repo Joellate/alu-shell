@@ -35,3 +35,16 @@ while [ "$i" -lt 21 ]; do
 
 																				                ;;
 
+																						        *)
+
+																								            echo "$i"
+
+																									                ;;
+
+																											        esac
+
+																												        
+
+																												    ((i++))
+
+																											    done 
